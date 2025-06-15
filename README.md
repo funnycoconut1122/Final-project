@@ -1,1 +1,1 @@
-To access the game please open the MaK.py file
+The main files are MaK.py, button.py, and dialogue.py
