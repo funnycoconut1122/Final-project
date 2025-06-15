@@ -53,7 +53,7 @@ clock = pygame.time.Clock()
 #MENU BG
 background_surf = pygame.image.load("assets/menubg.jpg").convert()
 
-# SCENES DATA: Add all 23 scenes here
+# SCENES DATA (I lost track of the scenes' order...)
 scenes = [
     {       
         "background": "assets/blackoutbg.jpg",
